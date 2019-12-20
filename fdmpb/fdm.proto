@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+package file-download-manager;
+option go_package="fdmpb";
+
+service FdmService{}
